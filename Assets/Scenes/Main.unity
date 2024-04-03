@@ -929,11 +929,11 @@ RectTransform:
   - {fileID: 1950260365}
   m_Father: {fileID: 904985978}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 343.1, y: -244.2}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -20.302612, y: 19.202637}
   m_SizeDelta: {x: 73.1947, y: 73.1947}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 1, y: 0}
 --- !u!114 &211289704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1082,11 +1082,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 904985978}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -338.72, y: 249}
-  m_SizeDelta: {x: 122.5675, y: 122.5675}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -0.0037841797, y: 10.283783}
+  m_SizeDelta: {x: 122.567505, y: 122.567505}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &322440067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1294,11 +1294,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 904985978}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -266.2, y: 249}
-  m_SizeDelta: {x: 122.5675, y: 122.5675}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 72.516174, y: 10.283783}
+  m_SizeDelta: {x: 122.567505, y: 122.567505}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &336656904
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2146,11 +2146,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1013846610}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -214}
-  m_SizeDelta: {x: 386.3358, y: 92.4159}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 11}
+  m_SizeDelta: {x: 386.3358, y: 92.41589}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &609822306
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3705,7 +3705,7 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013846609}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
@@ -4087,11 +4087,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 904985978}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -121.98001, y: 249}
-  m_SizeDelta: {x: 122.5675, y: 122.5675}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 216.7362, y: 10.283783}
+  m_SizeDelta: {x: 122.567505, y: 122.567505}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &1147163241
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4819,7 +4819,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &1398430480
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5438,11 +5438,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 904985978}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -194.5, y: 249}
-  m_SizeDelta: {x: 122.5675, y: 122.5675}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 144.21623, y: 10.283783}
+  m_SizeDelta: {x: 122.567505, y: 122.567505}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &1563363398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5633,9 +5633,7 @@ MonoBehaviour:
   sounds:
   - {fileID: 8300000, guid: ca9351c45fa82d64d88e5762f30997d0, type: 3}
   - {fileID: 8300000, guid: debfbb7b30ab5d645813ee6b74eece3d, type: 3}
-  - {fileID: 8300000, guid: 0b154f61f347b7a41958ff3e654eb520, type: 3}
   - {fileID: 8300000, guid: 09d5020f21970cd49aa0a641b378ebe4, type: 3}
-  - {fileID: 8300000, guid: a184d45d05122404fb0b604ae3908262, type: 3}
   - {fileID: 8300000, guid: 795c8a02cc05732419e15a9811456695, type: 3}
   - {fileID: 8300000, guid: cb0f92975f1e03e4185bdc5a620ff713, type: 3}
   wrongSound: {fileID: 8300000, guid: 475b01664f9494a4d91f861ace9454e2, type: 3}
